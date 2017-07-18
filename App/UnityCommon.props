@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloPedia</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\DATA\170718_YoloLens-Road-To-Manchester\HoloPedia\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\DATA\170718_YoloLens-Road-To-Manchester\HoloPedia\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity 2017.1.0f3\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
