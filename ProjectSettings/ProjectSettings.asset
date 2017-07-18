@@ -511,11 +511,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloPedia
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: YoloLens
+  metroCertificateIssuer: YoloLens
+  metroCertificateNotAfter: 80b99fddea1ed401
   metroApplicationDescription: HoloPedia
   wsaImages: {}
   metroTileShortName: 
